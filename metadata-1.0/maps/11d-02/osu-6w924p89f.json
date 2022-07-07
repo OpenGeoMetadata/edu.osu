@@ -1,0 +1,21 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/a0ea05bc-a4de-4f12-9db7-57c3209825ba",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Neueste Eisenbahn- Kanal- u. Post-Karte für Reisende in den Vereinigten Staaten von Nord-Amerika, Canada, Texas u. Californien ",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-6w924p89f",
+  "solr_year_i": "1852",
+  "dc_description_s": "Scale approximately 1:4,300,000.|Title-label on cover: Neueste Eisenbahn-, Post- und Kanal-Karte ... Bamberg, Buchner'schen Buchhandlung; New-York, J.E. Stohmann [etc.] 1852.|Engraved by Serz & Cie., Nürnberg.|\"Karte zu Tr. Bromes Handbuch f. Auswanderer.\"|Insets include three railroad route maps and: Philadelphia.--Karte von Oregon und Neu-Californian.--Plan von New-York.|Accompanied by: Kurze Notizen für Reisende nach Amerika, mit besonderer Rüchsicht auf Auswanderer, von Eduard Pelz. 28 p.|Phillips (1853 ed.)|Howes (other eds.)|BM maps (other eds.)|Nach J. Calvin Smith, H.S. Tanner u. andern neuesten Quellen bearbeitet.",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/a0ea05bc-a4de-4f12-9db7-57c3209825ba\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/6w924p89f/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "dc_language_sm": [
+    "deu"
+  ],
+  "dc_publisher_s": "Buchner'schen Buchhandlung",
+  "dct_issued_s": "1852"
+}

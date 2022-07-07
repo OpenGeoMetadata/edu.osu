@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/3878084d-1192-401e-8da3-42d7ed31987e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Highway map of Carroll County  D.R. Blythe, county surveyor",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-9880w304w",
+  "solr_year_i": "1800",
+  "dc_description_s": "Scale approximately 1:96,561.",
+  "dc_format_s": "TIFF",
+  "dc_subject_sm": [
+    "Roads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/3878084d-1192-401e-8da3-42d7ed31987e\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/9880w304w/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Carroll County, Ohio",
+    "Ohio"
+  ],
+  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1800 and 1899"
+  ]
+}

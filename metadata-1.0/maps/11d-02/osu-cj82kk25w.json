@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/261823a1-c37a-41ed-9481-1b59491dc4bd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Clason's guide map of Wyoming",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-cj82kk25w",
+  "dc_creator_sm": [
+    "Clason Map Co."
+  ],
+  "dc_description_s": "Scale [ca. 1:1,267,000]|Relief shown by hachures.|\"Principal auto roads shown in red. Oil and gas fields shown in orange.\"--Lower margin.|Includes index.|Above index: Wyoming 1919.|State information in attached booklet (56 p.)|published by the Clason Map Co., Denver, Colo.",
+  "dc_format_s": "TIFF",
+  "dc_subject_sm": [
+    "Roads",
+    "Railroads",
+    "Oil fields",
+    "Gas fields"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/261823a1-c37a-41ed-9481-1b59491dc4bd\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/cj82kk25w/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Wyoming"
+  ],
+  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Clason Map Co."
+}

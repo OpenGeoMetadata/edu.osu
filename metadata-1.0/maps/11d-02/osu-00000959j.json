@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/692b9945-372a-495c-9ece-e86ff7886bb3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Profile and map of the Ohio Canal : showing progress and cost of improvements",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-00000959j",
+  "solr_year_i": "1910",
+  "dc_creator_sm": [
+    "Perkins, C. E. 1840-1907"
+  ],
+  "dc_description_s": "Scale approximately 1:276,000.|Shows Ohio Canal from Dresden to Cleveland.|\"Scale distorted.\"|Oriented with north to right.|Includes \"Table of Distances\" on right margin.|compiled under the direction of Chas. E. Perkins, Chief Engineer, Public Works of Ohio ; A.H. Sawyer, Draftsman.",
+  "dc_format_s": "TIFF",
+  "dc_subject_sm": [
+    "Canals"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/692b9945-372a-495c-9ece-e86ff7886bb3\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/00000959j/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "layer_modified_dt": "2022-07-05T15:47:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Board of Public Works",
+  "dct_temporal_sm": [
+    "approximately 1910"
+  ]
+}

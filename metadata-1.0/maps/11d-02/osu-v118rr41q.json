@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/6e0c8c01-1db4-461e-8979-dc073b9690fd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of North-western Ohio : showing the lands granted by the United States to the state of Ohio, to aid in the construction of the Ohio canals, with the original government townships and the present county lines ",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-v118rr41q",
+  "solr_year_i": "1800",
+  "dc_creator_sm": [
+    "Ohio. Canal Commission"
+  ],
+  "dc_description_s": "Scale indeterminable.|\"Land grants made by Congress to aid in the construction of canals in the State of Ohio.\"|made under the direction of the Ohio Canal Commission, from official lists and maps on file in the office of the Auditor of State in the city of Columbus, Ohio.",
+  "dc_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/6e0c8c01-1db4-461e-8979-dc073b9690fd\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/v118rr41q/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Ohio Canal Commission",
+  "dct_temporal_sm": [
+    "between 1800 and 1899"
+  ]
+}
