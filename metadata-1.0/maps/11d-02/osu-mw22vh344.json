@@ -5,9 +5,10 @@
   "dc_title_s": "Geologic map of Ohio",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-mw22vh344",
+  "solr_geom": "ENVELOPE(-84.820159,-80.518693,41.977523,38.403202)",
   "solr_year_i": "1920",
   "dc_creator_sm": [
-    "Bownocker, J. A. 1865-1928."
+    "Bownocker, J. A. 1865-1928"
   ],
   "dc_description_s": "J.A. Bownocker, state geologist ; revisions of the geology of Ohio shown on this map are the work of J.A. Bownocker, W.G. Burroughs [etc.] ... W.D. Turnbull, chief draftsman.",
   "dc_format_s": "TIFF",
@@ -18,7 +19,7 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:18:59Z",
   "dc_language_sm": [
     "eng"
   ],

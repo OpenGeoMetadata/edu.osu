@@ -5,6 +5,7 @@
   "dc_title_s": "Map showing location of Panama Canal : as recommended by the Isthmian Canal Commission of 1899-1902",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-nv935f14m",
+  "solr_geom": "ENVELOPE(-80.081665,-79.49733,9.39802,8.889243)",
   "solr_year_i": "1905",
   "dc_creator_sm": [
     "National Geographic Society (U.S.)"
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Panama"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:21:50Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -5,6 +5,7 @@
   "dc_title_s": "Chart of part of the Bahama Islands showing the tracks ascribed to Columbus on his discovery of the New World",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-d791ss62p",
+  "solr_geom": "ENVELOPE(-80.7002,-72.4478,27.4735,20.706)",
   "solr_year_i": "1881",
   "dc_creator_sm": [
     "U.S. Coast and Geodetic Survey"
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Bahamas"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:17:30Z",
   "dc_language_sm": [
     "eng"
   ],

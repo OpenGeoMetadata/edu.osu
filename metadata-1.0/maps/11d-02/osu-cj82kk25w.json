@@ -5,6 +5,7 @@
   "dc_title_s": "Clason's guide map of Wyoming",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-cj82kk25w",
+  "solr_geom": "ENVELOPE(-111.056888,-104.05216,45.005904,40.994746)",
   "dc_creator_sm": [
     "Clason Map Co."
   ],
@@ -20,7 +21,7 @@
   "dct_spatial_sm": [
     "Wyoming"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-07T18:35:42Z",
   "dc_language_sm": [
     "eng"
   ],

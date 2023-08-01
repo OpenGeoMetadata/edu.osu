@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/99ec0989-e3d0-4967-bff9-ca056a1d2d03",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ground-water resources of Brown County",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-mp48st07c",
+  "solr_geom": "ENVELOPE(-84.0528363,-83.6730938,39.2542652,38.6395774)",
+  "solr_year_i": "1989",
+  "dc_creator_sm": [
+    "Sugar, David J."
+  ],
+  "dc_description_s": "Scale approximately 1:63,000.|by David J. Sugar ; Diane Hamilton, cartographer.|\"Total copies printed: 500.\"",
+  "dc_format_s": "TIFF",
+  "dc_subject_sm": [
+    "Groundwater",
+    "Water-supply"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/99ec0989-e3d0-4967-bff9-ca056a1d2d03\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/mp48st07c/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ohio--Brown County",
+    "Ohio"
+  ],
+  "layer_modified_dt": "2023-02-28T02:49:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1989.0"
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/22bc4a8f-0603-4a10-b78b-4a4ebb49aa2e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ground-water resources of Harrison County",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-05742537n",
+  "solr_geom": "ENVELOPE(-81.339661,-80.865128,40.4334027,40.159515)",
+  "solr_year_i": "1980",
+  "dc_creator_sm": [
+    "Crowell, Katie"
+  ],
+  "dc_description_s": "Includes location map.|by Katie Crowell ; cartography, Craig A. Schottenstein.|Scale approximately 1:63,000.|Relief shown by contours and spot heights.",
+  "dc_format_s": "TIFF",
+  "dc_subject_sm": [
+    "Groundwater"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/22bc4a8f-0603-4a10-b78b-4a4ebb49aa2e\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/05742537n/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ohio--Harrison County",
+    "Ohio"
+  ],
+  "layer_modified_dt": "2023-02-28T02:49:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Ohio. Division of Water",
+  "dct_issued_s": "1980.0"
+}

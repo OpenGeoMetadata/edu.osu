@@ -2,12 +2,13 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "https://hdl.handle.net/1811/9e3654d6-7b9a-4aa3-9bae-8df90eb2b0d6",
   "dc_rights_s": "Public",
-  "dc_title_s": "The countries of the Caribbean : including Mexico, Central America, the West Indies and the Panama Canal ",
+  "dc_title_s": "The countries of the Caribbean : including Mexico, Central America, the West Indies and the Panama Canal",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-j9602b26b",
+  "solr_geom": "ENVELOPE(-120.15,-56.96,32.57,7.78)",
   "solr_year_i": "1922",
   "dc_creator_sm": [
-    "National Geographic Society (U.S.) Cartographic Division"
+    "National Geographic Society (U.S.). Cartographic Division"
   ],
   "dc_description_s": "Scale 1:5,500,000 ; Lambert conformal conic projection with two parallels|Insets: Guantanamo Bay, Cuba; ca. 1:400,000.--Porto Rico and the Virgin Islands; ca. 1:1,300,000.--The Panama Canal and the Canal Zone (with cross-section showing extent of canal excavation); ca. 1:500,000.|Relief shown by bathymetry, spot heights and gradient tints.|Insets: Guantanamo Bay, Cuba; ca. 1:400,000.--Porto Rico and the Virgin Islands; ca. 1:1,300,000.--The Panama Canal and the Canal Zone (with cross-section showing extent of canal excavation); ca. 1:500,000.|prepared especially for the National Geographic magazine.",
   "dc_format_s": "TIFF",
@@ -19,7 +20,7 @@
     "Panama Canal",
     "Cuba"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:26:07Z",
   "dc_language_sm": [
     "eng"
   ],

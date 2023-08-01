@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/b815831b-ae7f-4af0-9973-9b2353fe79e3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Physiographic sections of Ohio",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-47429p884",
+  "solr_geom": "ENVELOPE(-84.8203361, -80.518979, 42.3232365, 38.4031419)",
+  "solr_year_i": "1970",
+  "dc_creator_sm": [
+    "Ohio. Division of Geological Survey"
+  ],
+  "dc_description_s": "OSU's copy 1 gift of Dale Bertsch.|Scale approximately 1:2,200,000|State of Ohio, Department of Natural Resources, Division of Geological Survey.",
+  "dc_format_s": "TIFF",
+  "dc_subject_sm": [
+    "Geomorphology",
+    "Physical geography"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/b815831b-ae7f-4af0-9973-9b2353fe79e3\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/47429p884/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "layer_modified_dt": "2023-06-16T20:04:05Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Ohio. Division of Geological Survey",
+  "dct_temporal_sm": [
+    "between 1970 and 1979"
+  ]
+}

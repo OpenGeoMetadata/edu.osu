@@ -2,9 +2,10 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "https://hdl.handle.net/1811/e954d305-4446-4f3e-b712-97bbd36f23de",
   "dc_rights_s": "Public",
-  "dc_title_s": "Map showing the property of the Vinton Coal Co. situated in Huntington & Raccoon Twps., Gallia Co. Ohio ",
+  "dc_title_s": "Map showing the property of the Vinton Coal Co. situated in Huntington & Raccoon Twps., Gallia Co. Ohio",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-rf55zk76j",
+  "solr_geom": "ENVELOPE(-82.582797,-82.095482,39.035206,38.582824)",
   "solr_year_i": "1909",
   "dc_creator_sm": [
     "New-York Coal Company"
@@ -18,10 +19,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/e954d305-4446-4f3e-b712-97bbd36f23de\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/rf55zk76j/manifest.json\"}",
   "dct_spatial_sm": [
-    "Gallia County, Ohio",
+    "Ohio--Gallia County",
     "Ohio"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:22:06Z",
   "dc_language_sm": [
     "eng"
   ],

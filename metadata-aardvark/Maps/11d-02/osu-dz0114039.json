@@ -1,0 +1,61 @@
+{
+  "dct_title_s": "Map of the Licking Reservoir",
+  "dct_description_sm": [
+    "made under the direction of the Ohio Canal Commission from W.C. Row's Survey ; A.H. Sawyer, E. E. Booton, Draughtsmen.",
+    "Also shows land ownership in area adjacent to the reservoir.",
+    "Scale approximatedly  [1:14,400]"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Row, W. C."
+  ],
+  "schema_provider_s": "The Ohio State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dct_subject_sm": [
+    "Reservoirs"
+  ],
+  "dct_temporal_sm": [
+    "between 1900 and 1909"
+  ],
+  "gbl_indexYear_im": [
+    "1900"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "Ohio--Perry County",
+    "Ohio--Licking County",
+    "Ohio--Buckeye Lake",
+    "Ohio--Fairfield County",
+    "Ohio"
+  ],
+  "locn_geometry": "POLYGON((-82.4725632 39.93038, -82.024452 39.93038, -82.024452 39.550198, -82.4725632 39.550198, -82.4725632 39.93038))",
+  "dcat_bbox": "ENVELOPE(-82.4725632,-82.024452,39.93038,39.550198)",
+  "dcat_centroid": "39.740289000000004,-82.2485076",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "11d-02"
+  ],
+  "dct_rights_sm": [
+    "The Ohio State University Libraries believes this object is in the Public Domain, users are responsible for making a final determination of copyright status before reproducing."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/dbb0e480-3084-4228-ade2-0de8064da1fd\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/dz0114039/manifest.json\"}",
+  "id": "osu-dz0114039",
+  "dct_identifier_sm": [
+    "https://hdl.handle.net/1811/dbb0e480-3084-4228-ade2-0de8064da1fd"
+  ],
+  "gbl_mdModified_dt": "2023-02-28T02:49:17Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

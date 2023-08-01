@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/72077289-d258-41c2-b717-84f7711d685d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sand and gravel resources of Butler County, Ohio",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-vq2802222",
+  "solr_geom": "ENVELOPE(-84.8193895,-84.3320445,39.5895383,39.2922864)",
+  "solr_year_i": "1986",
+  "dc_creator_sm": [
+    "Struble, Richard A."
+  ],
+  "dc_description_s": "Includes references.|Relief shown by contour lines and spot heights.|Includes text, 3 tables, location map, and water-well logs.|by Richard A. Struble ; cartographic drafting by Edward V. Kuehnle.|Scale approximately 1:63,360",
+  "dc_format_s": "TIFF",
+  "dc_subject_sm": [
+    "Sand",
+    "Gravel"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/72077289-d258-41c2-b717-84f7711d685d\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/vq2802222/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ohio--Butler County",
+    "Ohio"
+  ],
+  "layer_modified_dt": "2023-02-28T02:49:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Ohio. Division of Geological Survey",
+  "dct_issued_s": "1986.0"
+}

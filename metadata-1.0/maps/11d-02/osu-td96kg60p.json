@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/6e02e5a7-eb2a-4333-b615-55cab22c9735",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Regional bedrock geology of the Ohio portion of the Piqua, Ohio-Indiana 30 x 60 minute quadrangle",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-td96kg60p",
+  "solr_geom": "ENVELOPE(-84.8647213, -84.8609937, 38.9585881, 38.955891)",
+  "solr_year_i": "1993",
+  "dc_creator_sm": [
+    "Schumacher, Gregory A."
+  ],
+  "dc_description_s": "Includes bibliographical references.|Adhesive \"Revision\" label affixed at end of bibliography.|by Gregory A. Schumacher ; Lisa Van Doren and Michael R. Lester, cartographers.|Scale 1:100,000 ; Transverse Mercator projection.|\"Publication date: 8/93.\"|Includes text, ancillary map of terminal moraines and drainage, 2 cross-sections, stratigraphic column, and diagrams.",
+  "dc_format_s": "TIFF",
+  "dc_subject_sm": [
+    "Moraines",
+    "Geology"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/6e02e5a7-eb2a-4333-b615-55cab22c9735\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/td96kg60p/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ohio--Indiana",
+    "Ohio"
+  ],
+  "layer_modified_dt": "2023-06-16T20:04:05Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Ohio. Division of Geological Survey",
+  "dct_issued_s": "1993.0"
+}

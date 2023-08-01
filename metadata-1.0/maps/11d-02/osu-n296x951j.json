@@ -5,6 +5,7 @@
   "dc_title_s": "Map of the Great Salt Lake and adjacent country in the territory of Utah : surveyed in 1849 and 1850 under the orders of Col. J.J. Abert",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-n296x951j",
+  "solr_geom": "ENVELOPE(-114.052962,-109.041058,42.001567,36.997968)",
   "solr_year_i": "1852",
   "dc_creator_sm": [
     "Stansbury, Howard, 1806-1863"
@@ -18,7 +19,7 @@
   "dct_spatial_sm": [
     "Utah"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:21:33Z",
   "dc_language_sm": [
     "eng"
   ],

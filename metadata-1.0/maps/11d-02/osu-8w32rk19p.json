@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/f9a42bd7-0527-40d1-ad47-21759d7f47c8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the lower Darby Creek Basin and a portion of the middle Scioto River Basin showing availability of underground water",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-8w32rk19p",
+  "solr_geom": "ENVELOPE(-84.8203,-80.519,42.3232,38.4031)",
+  "solr_year_i": "1961",
+  "dc_creator_sm": [
+    "Schmidt, James J."
+  ],
+  "dc_description_s": "Scale bar lower left corner of map.|Text includes information about generalized stratigraphic sequence of the rocks in this portion of the middle Scioto River Basin and quality of underground water.|Map side also contains legend and explanation of map symbols.|\"Prepared by JAMES J. SCHMIDT, Geologist, Ohio Division of Water\"",
+  "dc_format_s": "TIFF",
+  "dc_subject_sm": [
+    "Rivers",
+    "Water quality",
+    "Sequence stratigraphy",
+    "Groundwater"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/f9a42bd7-0527-40d1-ad47-21759d7f47c8\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/8w32rk19p/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Scioto River",
+    "Ohio"
+  ],
+  "layer_modified_dt": "2023-02-03T21:21:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Ohio. Division of Water",
+  "dct_issued_s": "1961"
+}

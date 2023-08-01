@@ -26,6 +26,10 @@
   "dct_subject_sm": [
     "Geology"
   ],
+  "dcat_keyword_sm": [
+    "2022-creator-sprint",
+    "202212bbox"
+  ],
   "dct_issued_s": "1909",
   "gbl_indexYear_im": [
     "1909"
@@ -36,6 +40,9 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
+  "locn_geometry": "POLYGON((-84.820159 41.977523, -80.518693 41.977523, -80.518693 38.403202, -84.820159 38.403202, -84.820159 41.977523))",
+  "dcat_bbox": "ENVELOPE(-84.820159,-80.518693,41.977523,38.403202)",
+  "dcat_centroid": "40.1903625,-82.669426",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -52,6 +59,6 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/bd73c4fc-cd7e-4f9c-a50f-1192dcd6fce1"
   ],
-  "gbl_mdModified_dt": "2022-07-05T15:47:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

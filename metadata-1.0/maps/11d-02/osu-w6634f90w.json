@@ -2,9 +2,10 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "https://hdl.handle.net/1811/71d51c10-ac70-477f-9829-3ab7e5067e4b",
   "dc_rights_s": "Public",
-  "dc_title_s": "The Literary Digest liberty map of the Western Front of the Great World War showing the battle line of liberty as it stood June 5th, 1918 : also showing the lines of farthest advance of the German and the French offensives with complete index ",
+  "dc_title_s": "The Literary Digest liberty map of the Western Front of the Great World War showing the battle line of liberty as it stood June 5th, 1918 : also showing the lines of farthest advance of the German and the French offensives with complete index",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-w6634f90w",
+  "solr_geom": "ENVELOPE(-13.83,17.02,58.82,35.97)",
   "solr_year_i": "1918",
   "dc_description_s": "Scale 1:506,880. 8 miles = 1 in.|Insets: Map of the complete war area showing Russian, Italian, Balkan, Palestine and Mesopotamian campaigns; also the zones of submarine blockade -- The coal and iron fields in the western war territory -- Production of pig iron in metric tons [and] coal in short tons.|OSU's copy 1 lacks index.|engraved and printed by the Matthews-Northrup Works, Buffalo, N.Y.",
   "dc_format_s": "TIFF",
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Europe"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:26:11Z",
   "dc_language_sm": [
     "eng"
   ],
