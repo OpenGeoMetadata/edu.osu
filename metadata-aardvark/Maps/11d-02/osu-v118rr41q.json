@@ -1,5 +1,5 @@
 {
-  "dct_title_s": "Map of North-western Ohio : showing the lands granted by the United States to the state of Ohio, to aid in the construction of the Ohio canals, with the original government townships and the present county lines ",
+  "dct_title_s": "Map of North-western Ohio : showing the lands granted by the United States to the state of Ohio, to aid in the construction of the Ohio canals, with the original government townships and the present county lines",
   "dct_description_sm": [
     "Scale indeterminable.",
     "\"Land grants made by Congress to aid in the construction of canals in the State of Ohio.\"",
@@ -9,7 +9,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Ohio. Canal Commission"
+    "Ohio. Board of Canal Fund Commissioners"
   ],
   "dct_publisher_sm": [
     "Ohio Canal Commission"
@@ -17,6 +17,10 @@
   "schema_provider_s": "The Ohio State University",
   "gbl_resourceClass_sm": [
     "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_temporal_sm": [
     "between 1800 and 1899"
@@ -30,6 +34,9 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
+  "locn_geometry": "POLYGON((-84.820159 41.977523, -80.518693 41.977523, -80.518693 38.403202, -84.820159 38.403202, -84.820159 41.977523))",
+  "dcat_bbox": "ENVELOPE(-84.820159,-80.518693,41.977523,38.403202)",
+  "dcat_centroid": "40.1903625,-82.669426",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,6 +53,6 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/6e0c8c01-1db4-461e-8979-dc073b9690fd"
   ],
-  "gbl_mdModified_dt": "2022-07-05T15:47:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

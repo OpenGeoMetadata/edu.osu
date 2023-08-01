@@ -5,9 +5,10 @@
   "dc_title_s": "Hypsometric sketch of the United States",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-9593v662j",
+  "solr_geom": "ENVELOPE(-124.98,-67.18,49.31,22.61)",
   "solr_year_i": "1870",
   "dc_creator_sm": [
-    "Guyot, A. 1807-1884"
+    "Guyot, A. (Arnold), 1807-1884"
   ],
   "dc_description_s": "Scale not given|Relief shown by hachures and gradient tints.|\"Printed for the Report on the vital statistics of the United States, Ninth Census 1870, by permission of Prof. B. Peirce.\"|In upper left margin: Ninth census.|In lower right margin: J. Bien, lith.|the level curves of 400 and 800 feet of elevation constructed by A. Guyot. The level curves of 2000, 4000, and 8000 feet of elevation constructed by Chas A. Schott, asst., U.S. Coast Survey.",
   "dc_format_s": "TIFF",
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:19:39Z",
   "dc_language_sm": [
     "eng"
   ],

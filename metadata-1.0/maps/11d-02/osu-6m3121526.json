@@ -2,9 +2,10 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "https://hdl.handle.net/1811/5e0751db-9646-43b4-8d14-f7f8ade1d55f",
   "dc_rights_s": "Public",
-  "dc_title_s": "Tentative zoning map, city of Columbus, Ohio ",
+  "dc_title_s": "Tentative zoning map, city of Columbus, Ohio",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-6m3121526",
+  "solr_geom": "ENVELOPE(-83.21018,-82.771312,40.157299,39.808694)",
   "solr_year_i": "1923",
   "dc_creator_sm": [
     "Columbus (Ohio). City Planning Commission"
@@ -17,10 +18,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/5e0751db-9646-43b4-8d14-f7f8ade1d55f\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/6m3121526/manifest.json\"}",
   "dct_spatial_sm": [
-    "Columbus, Ohio",
+    "Ohio--Columbus",
     "Ohio"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:26:04Z",
   "dc_language_sm": [
     "eng"
   ],

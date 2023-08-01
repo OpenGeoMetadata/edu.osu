@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Ground-water resources of Clark County",
+  "dct_description_sm": [
+    "Includes location map.",
+    "by James J. Schmidt (after Norris, S.E. 1952) ; cartography, Douglas E. Keen.",
+    "Scale 1:62,500",
+    "Relief shown by contours and spot heights."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Schmidt, James J."
+  ],
+  "dct_publisher_sm": [
+    "Ohio. Division of Water"
+  ],
+  "schema_provider_s": "The Ohio State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Thematic maps"
+  ],
+  "dct_subject_sm": [
+    "Groundwater"
+  ],
+  "dct_issued_s": "1982.0",
+  "gbl_indexYear_im": [
+    "1982"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1982 TO 1982]"
+  ],
+  "dct_spatial_sm": [
+    "Ohio--Clark County",
+    "Ohio"
+  ],
+  "locn_geometry": "POLYGON((-84.053736 40.04019, -83.5116928 40.04019, -83.5116928 39.7682275, -84.053736 39.7682275, -84.053736 40.04019))",
+  "dcat_bbox": "ENVELOPE(-84.053736,-83.5116928,40.04019,39.7682275)",
+  "dcat_centroid": "39.90420875,-83.7827144",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "11d-02"
+  ],
+  "dct_rights_sm": [
+    "This item, made available for research and educational purposes, may be protected by copyright; the user is responsible for making a final determination of copyright status."
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "TIFF",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/66c8a004-ea72-4c6a-bc00-de7870ce8a0b\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/pn89dm22w/manifest.json\"}",
+  "id": "osu-pn89dm22w",
+  "dct_identifier_sm": [
+    "https://hdl.handle.net/1811/66c8a004-ea72-4c6a-bc00-de7870ce8a0b"
+  ],
+  "gbl_mdModified_dt": "2023-02-28T02:49:16Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

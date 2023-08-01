@@ -5,6 +5,7 @@
   "dc_title_s": "A geological map of Ohio",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-9k41zr126",
+  "solr_geom": "ENVELOPE(-84.820159,-80.518693,41.977523,38.403202)",
   "solr_year_i": "1909",
   "dc_creator_sm": [
     "Bownocker, J. A. 1865-1928"
@@ -18,7 +19,7 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:16:01Z",
   "dc_language_sm": [
     "eng"
   ],

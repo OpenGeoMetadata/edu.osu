@@ -13,6 +13,9 @@
   "dct_subject_sm": [
     "Roads"
   ],
+  "dcat_keyword_sm": [
+    "202212bbox"
+  ],
   "dct_temporal_sm": [
     "between 1800 and 1899"
   ],
@@ -23,9 +26,12 @@
     "[1800 TO 1899]"
   ],
   "dct_spatial_sm": [
-    "Carroll County, Ohio",
+    "Ohio--Carroll County",
     "Ohio"
   ],
+  "locn_geometry": "POLYGON((-81.321724 40.729198, -80.860681 40.729198, -80.860681 40.424664, -81.321724 40.424664, -81.321724 40.729198))",
+  "dcat_bbox": "ENVELOPE(-81.321724,-80.860681,40.729198,40.424664)",
+  "dcat_centroid": "40.576931,-81.09120250000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,6 +48,6 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/3878084d-1192-401e-8da3-42d7ed31987e"
   ],
-  "gbl_mdModified_dt": "2022-07-05T15:47:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

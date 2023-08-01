@@ -32,12 +32,16 @@
     "Oil fields",
     "Gas fields"
   ],
-  "gbl_dateRange_drsim": [
-    "[* TO *]"
+  "dcat_keyword_sm": [
+    "2022-creator-sprint",
+    "202212bbox"
   ],
   "dct_spatial_sm": [
     "Wyoming"
   ],
+  "locn_geometry": "POLYGON((-111.056888 45.005904, -104.05216 45.005904, -104.05216 40.994746, -111.056888 40.994746, -111.056888 45.005904))",
+  "dcat_bbox": "ENVELOPE(-111.056888,-104.05216,45.005904,40.994746)",
+  "dcat_centroid": "43.000325000000004,-107.554524",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -54,6 +58,6 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/261823a1-c37a-41ed-9481-1b59491dc4bd"
   ],
-  "gbl_mdModified_dt": "2022-07-05T15:47:35Z",
+  "gbl_mdModified_dt": "2023-02-07T18:35:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

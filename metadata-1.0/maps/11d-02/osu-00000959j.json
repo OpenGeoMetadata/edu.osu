@@ -5,9 +5,10 @@
   "dc_title_s": "Profile and map of the Ohio Canal : showing progress and cost of improvements",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-00000959j",
+  "solr_geom": "ENVELOPE(-84.820159,-80.518693,41.977523,38.403202)",
   "solr_year_i": "1910",
   "dc_creator_sm": [
-    "Perkins, C. E. 1840-1907"
+    "Perkins, C. E. (Charles Elliott), 1840-1907"
   ],
   "dc_description_s": "Scale approximately 1:276,000.|Shows Ohio Canal from Dresden to Cleveland.|\"Scale distorted.\"|Oriented with north to right.|Includes \"Table of Distances\" on right margin.|compiled under the direction of Chas. E. Perkins, Chief Engineer, Public Works of Ohio ; A.H. Sawyer, Draftsman.",
   "dc_format_s": "TIFF",
@@ -18,7 +19,7 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:34Z",
+  "layer_modified_dt": "2023-02-03T21:24:03Z",
   "dc_language_sm": [
     "eng"
   ],

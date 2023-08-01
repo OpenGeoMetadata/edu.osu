@@ -2,12 +2,13 @@
   "geoblacklight_version": "1.0",
   "dc_identifier_s": "https://hdl.handle.net/1811/3d1b5c4c-f1c7-4f23-8fbb-56930fe77748",
   "dc_rights_s": "Public",
-  "dc_title_s": "Ohio as originally surveyed, subdivided, and sold ",
+  "dc_title_s": "Ohio as originally surveyed, subdivided, and sold",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-nz806981h",
+  "solr_geom": "ENVELOPE(-84.820159,-80.518693,41.977523,38.403202)",
   "solr_year_i": "1918",
   "dc_creator_sm": [
-    "Peters, William E. 1857-1952"
+    "Peters, William E. (William Edwards), 1857-1952"
   ],
   "dc_description_s": "Scale approximately 1:760,320.|From: Ohio lands and their subdivision / by William E. Peters. 1918.|drawn by William E. Peters.",
   "dc_format_s": "TIFF",
@@ -15,7 +16,7 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:23:03Z",
   "dc_language_sm": [
     "eng"
   ],

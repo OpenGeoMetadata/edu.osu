@@ -5,6 +5,7 @@
   "dc_title_s": "Scioto County",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-5425kk90z",
+  "solr_geom": "ENVELOPE(-83.270826,-82.649956,39.015751,38.570767)",
   "solr_year_i": "1919",
   "dc_creator_sm": [
     "Ohio. State Highway Commission."
@@ -16,10 +17,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/a6e74b58-b706-4e00-9e39-f68b77b2b3dd\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/5425kk90z/manifest.json\"}",
   "dct_spatial_sm": [
-    "Scioto County, Ohio",
+    "Ohio--Scioto County",
     "Ohio"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:24:54Z",
   "dc_language_sm": [
     "eng"
   ],

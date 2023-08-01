@@ -5,6 +5,7 @@
   "dc_title_s": "Wyandot county",
   "dct_provenance_s": "The Ohio State University",
   "layer_slug_s": "osu-vx021s24h",
+  "solr_geom": "ENVELOPE(-83.515816,-83.111,40.993408,40.686814)",
   "solr_year_i": "1919",
   "dc_creator_sm": [
     "Cowen, Clinton"
@@ -16,10 +17,10 @@
   ],
   "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/2e0de6d9-e038-40cb-9950-29a599dce772\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/vx021s24h/manifest.json\"}",
   "dct_spatial_sm": [
-    "Wyandot County, Ohio",
+    "Ohio--Wyandot County",
     "Ohio"
   ],
-  "layer_modified_dt": "2022-07-05T15:47:35Z",
+  "layer_modified_dt": "2023-02-03T21:26:57Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hdl.handle.net/1811/dbb0e480-3084-4228-ade2-0de8064da1fd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the Licking Reservoir",
+  "dct_provenance_s": "The Ohio State University",
+  "layer_slug_s": "osu-dz0114039",
+  "solr_geom": "ENVELOPE(-82.4725632,-82.024452,39.93038,39.550198)",
+  "solr_year_i": "1900",
+  "dc_creator_sm": [
+    "Row, W. C."
+  ],
+  "dc_description_s": "made under the direction of the Ohio Canal Commission from W.C. Row's Survey ; A.H. Sawyer, E. E. Booton, Draughtsmen.|Also shows land ownership in area adjacent to the reservoir.|Scale approximatedly  [1:14,400]",
+  "dc_format_s": "TIFF",
+  "dc_subject_sm": [
+    "Reservoirs"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://hdl.handle.net/1811/dbb0e480-3084-4228-ade2-0de8064da1fd\",\"http://iiif.io/api/presentation#manifest\":\"https://library.osu.edu/dc/concern/generic_works/dz0114039/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ohio--Perry County",
+    "Ohio--Licking County",
+    "Ohio--Buckeye Lake",
+    "Ohio--Fairfield County",
+    "Ohio"
+  ],
+  "layer_modified_dt": "2023-02-28T02:49:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1900 and 1909"
+  ]
+}
