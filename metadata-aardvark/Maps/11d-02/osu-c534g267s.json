@@ -26,7 +26,7 @@
   "dct_subject_sm": [
     "Groundwater"
   ],
-  "dct_issued_s": "1985.0",
+  "dct_issued_s": "1985",
   "gbl_indexYear_im": [
     "1985"
   ],
@@ -38,9 +38,9 @@
     "Ohio--Lawrence County",
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-82.5827963 39.035206, -82.095482 39.035206, -82.095482 38.5828238, -82.5827963 38.5828238, -82.5827963 39.035206))",
-  "dcat_bbox": "ENVELOPE(-82.5827963,-82.095482,39.035206,38.5828238)",
-  "dcat_centroid": "38.8090149,-82.33913915",
+  "locn_geometry": "POLYGON((-82.583 39.035, -82.095 39.035, -82.095 38.583, -82.583 38.583, -82.583 39.035))",
+  "dcat_bbox": "ENVELOPE(-82.583,-82.095,39.035,38.583)",
+  "dcat_centroid": "38.809,-82.339",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,6 +57,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/78b4e3a8-f148-4068-bb5b-435e80e9586d"
   ],
-  "gbl_mdModified_dt": "2023-02-28T02:49:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

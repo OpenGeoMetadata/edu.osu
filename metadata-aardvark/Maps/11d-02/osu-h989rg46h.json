@@ -43,9 +43,9 @@
     "Mad River",
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-84.8203 42.3232, -80.519 42.3232, -80.519 38.4031, -84.8203 38.4031, -84.8203 42.3232))",
-  "dcat_bbox": "ENVELOPE(-84.8203,-80.519,42.3232,38.4031)",
-  "dcat_centroid": "40.363150000000005,-82.66965",
+  "locn_geometry": "POLYGON((-84.820 42.323, -80.519 42.323, -80.519 38.403, -84.820 38.403, -84.820 42.323))",
+  "dcat_bbox": "ENVELOPE(-84.820,-80.519,42.323,38.403)",
+  "dcat_centroid": "40.363,-82.6695",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -63,6 +63,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/4c5809ae-a30a-4f0d-8569-3474acb47400"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

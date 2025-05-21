@@ -30,7 +30,7 @@
     "Glacial landforms",
     "Geology"
   ],
-  "dct_issued_s": "1993.0",
+  "dct_issued_s": "1993",
   "gbl_indexYear_im": [
     "1993"
   ],
@@ -41,9 +41,9 @@
     "Ohio--Columbus",
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-83.2101797 40.1573082, -82.7713119 40.1573082, -82.7713119 39.8086936, -83.2101797 39.8086936, -83.2101797 40.1573082))",
-  "dcat_bbox": "ENVELOPE(-83.2101797,-82.7713119,40.1573082,39.8086936)",
-  "dcat_centroid": "39.9830009,-82.9907458",
+  "locn_geometry": "POLYGON((-83.210 40.157, -82.771 40.157, -82.771 39.809, -83.210 39.809, -83.210 40.157))",
+  "dcat_bbox": "ENVELOPE(-83.210,-82.771,40.157,39.809)",
+  "dcat_centroid": "39.983,-82.9905",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -60,6 +60,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/2f07e2fc-3179-461a-b81a-7be48b150b52"
   ],
-  "gbl_mdModified_dt": "2023-02-28T02:49:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

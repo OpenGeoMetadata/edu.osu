@@ -28,7 +28,7 @@
     "Moraines",
     "Geology"
   ],
-  "dct_issued_s": "1993.0",
+  "dct_issued_s": "1993",
   "gbl_indexYear_im": [
     "1993"
   ],
@@ -39,9 +39,9 @@
     "Ohio--Indiana",
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-84.8647213  38.9585881,  -84.8609937  38.9585881,  -84.8609937  38.955891, -84.8647213  38.955891, -84.8647213  38.9585881))",
-  "dcat_bbox": "ENVELOPE(-84.8647213, -84.8609937, 38.9585881, 38.955891)",
-  "dcat_centroid": "38.95723955,-84.86285749999999",
+  "locn_geometry": "POLYGON((-84.86 38.961, -84.859 38.961, -84.859 38.96, -84.86 38.96, -84.86 38.961))",
+  "dcat_bbox": "ENVELOPE(-84.86,-84.859,38.961,38.96)",
+  "dcat_centroid": "38.960499999999996,-84.8595",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,6 +58,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/6e02e5a7-eb2a-4333-b615-55cab22c9735"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:04:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

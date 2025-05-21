@@ -18,10 +18,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_temporal_sm": [
     "between 1800 and 1899"
   ],
@@ -34,9 +30,9 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-84.820159 41.977523, -80.518693 41.977523, -80.518693 38.403202, -84.820159 38.403202, -84.820159 41.977523))",
-  "dcat_bbox": "ENVELOPE(-84.820159,-80.518693,41.977523,38.403202)",
-  "dcat_centroid": "40.1903625,-82.669426",
+  "locn_geometry": "POLYGON((-84.820 41.978, -80.519 41.978, -80.519 38.403, -84.820 38.403, -84.820 41.978))",
+  "dcat_bbox": "ENVELOPE(-84.820,-80.519,41.978,38.403)",
+  "dcat_centroid": "40.1905,-82.6695",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -53,6 +49,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/6e0c8c01-1db4-461e-8979-dc073b9690fd"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

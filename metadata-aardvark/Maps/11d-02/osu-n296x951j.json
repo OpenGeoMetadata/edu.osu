@@ -26,10 +26,6 @@
   "dct_subject_sm": [
     "Discoveries in geography"
   ],
-  "dcat_keyword_sm": [
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_issued_s": "1852",
   "gbl_indexYear_im": [
     "1852"
@@ -40,9 +36,9 @@
   "dct_spatial_sm": [
     "Utah"
   ],
-  "locn_geometry": "POLYGON((-114.052962 42.001567, -109.041058 42.001567, -109.041058 36.997968, -114.052962 36.997968, -114.052962 42.001567))",
-  "dcat_bbox": "ENVELOPE(-114.052962,-109.041058,42.001567,36.997968)",
-  "dcat_centroid": "39.499767500000004,-111.54701",
+  "locn_geometry": "POLYGON((-114.053 42.002, -109.041 42.002, -109.041 36.998, -114.053 36.998, -114.053 42.002))",
+  "dcat_bbox": "ENVELOPE(-114.053,-109.041,42.002,36.998)",
+  "dcat_centroid": "39.5,-111.547",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -59,6 +55,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/3ffee8f3-6280-492d-83f1-b5ab061f6406"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -25,7 +25,7 @@
   "dct_subject_sm": [
     "Groundwater"
   ],
-  "dct_issued_s": "1980.0",
+  "dct_issued_s": "1980",
   "gbl_indexYear_im": [
     "1980"
   ],
@@ -36,9 +36,9 @@
     "Ohio--Knox County",
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-82.750747 40.573074, -82.178551 40.573074, -82.178551 40.2390862, -82.750747 40.2390862, -82.750747 40.573074))",
-  "dcat_bbox": "ENVELOPE(-82.750747,-82.178551,40.573074,40.2390862)",
-  "dcat_centroid": "40.4060801,-82.46464900000001",
+  "locn_geometry": "POLYGON((-82.751 40.573, -82.179 40.573, -82.179 40.239, -82.751 40.239, -82.751 40.573))",
+  "dcat_bbox": "ENVELOPE(-82.751,-82.179,40.573,40.239)",
+  "dcat_centroid": "40.406,-82.465",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -55,6 +55,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/fe6b8405-9d12-477d-a169-8760f85515f3"
   ],
-  "gbl_mdModified_dt": "2023-02-28T02:49:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

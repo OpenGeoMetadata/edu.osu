@@ -21,7 +21,7 @@
     "Water-supply",
     "Groundwater"
   ],
-  "dct_issued_s": "1991.0",
+  "dct_issued_s": "1991",
   "gbl_indexYear_im": [
     "1991"
   ],
@@ -32,9 +32,9 @@
     "Ohio--Carroll County",
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-81.321724 40.729198, -80.8606811 40.729198, -80.8606811 40.424664, -81.321724 40.424664, -81.321724 40.729198))",
-  "dcat_bbox": "ENVELOPE(-81.321724,-80.8606811,40.729198,40.424664)",
-  "dcat_centroid": "40.576931,-81.09120254999999",
+  "locn_geometry": "POLYGON((-81.322 40.729, -80.861 40.729, -80.861 40.425, -81.322 40.425, -81.322 40.729))",
+  "dcat_bbox": "ENVELOPE(-81.322,-80.861,40.729,40.425)",
+  "dcat_centroid": "40.577,-81.0915",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -51,6 +51,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/a77776c4-2eee-41be-83c0-19cb842dba35"
   ],
-  "gbl_mdModified_dt": "2023-02-28T02:49:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

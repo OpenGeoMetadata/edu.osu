@@ -29,7 +29,7 @@
     "Geology",
     "Geology, Stratigraphic"
   ],
-  "dct_issued_s": "1993.0",
+  "dct_issued_s": "1993",
   "gbl_indexYear_im": [
     "1993"
   ],
@@ -39,9 +39,9 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-84.8203361  42.3232365,  -80.518979  42.3232365,  -80.518979  38.4031419, -84.8203361  38.4031419, -84.8203361  42.3232365))",
-  "dcat_bbox": "ENVELOPE(-84.8203361, -80.518979, 42.3232365, 38.4031419)",
-  "dcat_centroid": "40.3631892,-82.66965755000001",
+  "locn_geometry": "POLYGON((-84.820 42.323, -80.519 42.323, -80.519 38.403, -84.820 38.403, -84.820 42.323))",
+  "dcat_bbox": "ENVELOPE(-84.820,-80.519,42.323,38.403)",
+  "dcat_centroid": "40.363,-82.6695",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,6 +58,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/4714f2aa-5512-40ce-a266-90a6d1158ba7"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:04:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

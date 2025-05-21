@@ -26,7 +26,7 @@
   "dct_subject_sm": [
     "Sediments (Geology)"
   ],
-  "dct_issued_s": "1987.0",
+  "dct_issued_s": "1987",
   "gbl_indexYear_im": [
     "1987"
   ],
@@ -37,9 +37,9 @@
     "Ohio--Hamilton County",
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-84.5095141  39.1405435,  -84.5069679  39.1405435,  -84.5069679  39.1372095, -84.5095141  39.1372095, -84.5095141  39.1405435))",
-  "dcat_bbox": "ENVELOPE(-84.5095141, -84.5069679, 39.1405435, 39.1372095)",
-  "dcat_centroid": "39.138876499999995,-84.508241",
+  "locn_geometry": "POLYGON((-84.51 39.141, -84.509 39.141, -84.509 39.14, -84.51 39.14, -84.51 39.141))",
+  "dcat_bbox": "ENVELOPE(-84.51,-84.509,39.141,39.14)",
+  "dcat_centroid": "39.1405,-84.5095",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,6 +56,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/226fad6d-3ee6-4095-a647-b1e979c84b6b"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:04:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

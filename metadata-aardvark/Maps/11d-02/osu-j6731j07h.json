@@ -27,7 +27,7 @@
     "Sand",
     "Gravel"
   ],
-  "dct_issued_s": "1987.0",
+  "dct_issued_s": "1987",
   "gbl_indexYear_im": [
     "1987"
   ],
@@ -38,9 +38,9 @@
     "Ohio--Ashland County",
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-82.2349317  40.6366538,  -82.234449  40.6366538,  -82.234449  40.636482, -82.2349317  40.636482, -82.2349317  40.6366538))",
-  "dcat_bbox": "ENVELOPE(-82.2349317, -82.234449, 40.6366538, 40.636482)",
-  "dcat_centroid": "40.6365679,-82.23469035",
+  "locn_geometry": "POLYGON((-82.23 40.641, -82.229 40.641, -82.229 40.64, -82.23 40.64, -82.23 40.641))",
+  "dcat_bbox": "ENVELOPE(-82.23,-82.229,40.641,40.64)",
+  "dcat_centroid": "40.6405,-82.2295",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -57,6 +57,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/d62a62d1-d3fb-4f0d-9370-64a216ab0cc8"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:04:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -25,10 +25,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "2022-creator-sprint",
-    "202212bbox"
-  ],
   "dct_issued_s": "1915",
   "gbl_indexYear_im": [
     "1915"
@@ -39,9 +35,9 @@
   "dct_spatial_sm": [
     "Washington--Mount Rainier National Park (MRNP)"
   ],
-  "locn_geometry": "POLYGON((-122.159873 47.050153, -121.2741 47.050153, -121.2741 46.665135, -122.159873 46.665135, -122.159873 47.050153))",
-  "dcat_bbox": "ENVELOPE(-122.159873,-121.2741,47.050153,46.665135)",
-  "dcat_centroid": "46.857644,-121.7169865",
+  "locn_geometry": "POLYGON((-122.160 47.050, -121.274 47.050, -121.274 46.665, -122.160 46.665, -122.160 47.050))",
+  "dcat_bbox": "ENVELOPE(-122.160,-121.274,47.050,46.665)",
+  "dcat_centroid": "46.8575,-121.717",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -58,6 +54,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/7955857c-c092-4eae-a75e-c10b6eab6b4a"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

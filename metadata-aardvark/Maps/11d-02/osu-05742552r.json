@@ -26,7 +26,7 @@
     "Sand",
     "Gravel"
   ],
-  "dct_issued_s": "1987.0",
+  "dct_issued_s": "1987",
   "gbl_indexYear_im": [
     "1987"
   ],
@@ -37,9 +37,9 @@
     "Ohio--Montgomery County",
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-84.177033  39.7699569,  -84.1759886  39.7699569,  -84.1759886  39.7699036, -84.177033  39.7699036, -84.177033  39.7699569))",
-  "dcat_bbox": "ENVELOPE(-84.177033, -84.1759886, 39.7699569, 39.7699036)",
-  "dcat_centroid": "39.76993025,-84.17651079999999",
+  "locn_geometry": "POLYGON((-84.18 39.771, -84.179 39.771, -84.179 39.77, -84.18 39.77, -84.18 39.771))",
+  "dcat_bbox": "ENVELOPE(-84.18,-84.179,39.771,39.77)",
+  "dcat_centroid": "39.7705,-84.1795",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -56,6 +56,5 @@
   "dct_identifier_sm": [
     "https://hdl.handle.net/1811/25ce4d18-cd64-4753-90fe-67d54a775429"
   ],
-  "gbl_mdModified_dt": "2023-06-16T20:04:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }
